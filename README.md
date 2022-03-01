@@ -3,5 +3,6 @@ Compatibility Tables for most languages and their package manager
 
 Currently Supporting:
 - [Ruby](https://github.com/richardsondx/compatibility_tables/blob/main/RUBY.md)
+- [Python](https://github.com/richardsondx/compatibility_tables/blob/main/PYTHON.md)
 - [Node](https://github.com/richardsondx/compatibility_tables/blob/main/NODE.md)
 - [Elixir](https://github.com/richardsondx/compatibility_tables/blob/main/ELIXIR.md)
