@@ -18,6 +18,15 @@ It doesn't replace your dependency managers; it serves as a way to quickly ident
 
 ## Contribution
 
-The best way to contribute is by adding new record to the release table. By providing a source for your entries.
+
+### How to Contribute 
+
+The best way to contribute is by making a PR to add new rows or record to the release table. Please always include a source in your PR (if the source is not already present) 
+
+### Who can Contribute? 
 
 Anyone can contribute by opening a PR.
+
+## Contributors
+
+- Richardson Dackam ([@richardsondx](https://twitter.com/richardsondx))
