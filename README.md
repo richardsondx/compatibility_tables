@@ -17,12 +17,23 @@ It doesn't replace your dependency managers; it serves as a way to quickly ident
 - [Node](https://github.com/richardsondx/compatibility_tables/blob/main/NODE.md)
 - [Elixir](https://github.com/richardsondx/compatibility_tables/blob/main/ELIXIR.md)
 
-## Contribution
+## Compatibility Table Statuses Links
 
+- [NPM Compatibility Table Status](https://github.com/richardsondx/compatibility_tables/blob/main/status/npm.md)
+- Yarn Compatibility Table Status (soon)
+- Bundler Compatibility Table Status (soon)
+- Pip Compatibility Table Status (soon)
+- Erlang Compatibility Table Status (soon)
+
+## Contribution
 
 ### How to Contribute 
 
 The best way to contribute is by making a PR to add new rows or record to the release table. Please always include a source in your PR (if the source is not already present) 
+
+Refer to the Compatibility status tables to check what versions were already added and what wasn't added yet.
+
+We are creating 1 table per Major Version. You can learn more about Semantic Versions [here](https://semver.org/)
 
 ### Who can Contribute? 
 
